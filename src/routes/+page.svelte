@@ -1,9 +1,9 @@
 <script>
-    import { Header, AboutMe, SkillsLeft, SkillsRight, Projecten } from '$lib/index.js';
+    import { Header, AboutMe, SkillsLeft, SkillsRight} from '$lib/index.js';
 </script>
 
 <Header />
 <AboutMe />
 <SkillsLeft />
 <SkillsRight />
-<Projecten />
+<!-- <Projecten /> -->

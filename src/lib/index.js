@@ -14,4 +14,4 @@ export { default as Nav } from '$lib/organisms/Nav.svelte';
 export { default as Footer } from '$lib/organisms/Footer.svelte';
 export { default as Header } from '$lib/organisms/Header.svelte';
 export { default as AboutMe } from '$lib/organisms/AboutMe.svelte';
-export {default as Projecten } from '$lib/organisms/projecten.svelte';
+// export {default as Projecten } from '$lib/organisms/projecten.svelte';
