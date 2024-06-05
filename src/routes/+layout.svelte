@@ -1,6 +1,6 @@
 <script>
-    import Nav from "../lib/organisms/Nav.svelte";
-    import Footer from '../lib/organisms/Footer.svelte';
+    import {Nav, Footer} from '$lib/index.js';
+  
 </script>
 
 
@@ -19,7 +19,10 @@
 		display: flex;
 		flex-direction: column;
 		min-height: 100vh;
+		background-color: var(--background-color-light);
 	}
+
+
 
 
 </style>

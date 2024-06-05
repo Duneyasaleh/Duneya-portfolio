@@ -1,4 +1,4 @@
-<footer>
+<!-- <footer>
     Copy- Duneya 
 </footer>
 
@@ -10,4 +10,4 @@ footer{
     width: 100%;
     margin: 0;
 }
-</style>
+</style> -->

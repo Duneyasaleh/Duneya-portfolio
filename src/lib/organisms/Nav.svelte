@@ -1,10 +1,15 @@
+<script>
+  import {Logo, Github} from '$lib/index.js'
+</script>
+
 <nav>
     <ul>
       <li>
         <a href="/" title="Home">Home</a>
       </li>
       <li>
-        <a href="/GithubRepos" title="Portfolio">Portfolio</a>
+        <a href="/GithubRepos" title="Portfolio">
+          Portfolio</a>
       </li>
       <li>
         <a href="/" title="Contact">Contact</a>
@@ -12,12 +17,13 @@
     </ul>
   </nav>
 
- <a href="/" class="logo"><img src="/images/LOGO-Whit.svg" alt="" width="200" height="200"></a> 
+ <a href="/" class="logo"><img src="{Logo}" alt="" width="200" height="200"></a> 
 
   <style>
 
     
 ul{
+  
     position: absolute;
     right: 0;
     top: 30%;
@@ -34,7 +40,7 @@ nav a{
   align-items: center;
   border: 1px;
   position: relative;
-  right: -80px;
+  right: -45px;
   transition: right .8s;
   margin-bottom: 1.5rem;
   padding: 1rem;
