@@ -1,5 +1,5 @@
 <script>
-    import { Header, AboutMe, SkillsLeft, SkillsRight, Projecten } from '$lib/index.js'
+    import { Header, AboutMe, SkillsLeft, SkillsRight, Projecten } from '$lib/index.js';
 </script>
 
 <Header />
