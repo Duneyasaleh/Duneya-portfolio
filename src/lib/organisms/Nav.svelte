@@ -15,6 +15,7 @@
         <a href="/" title="Contact">Contact</a>
       </li>
     </ul>
+    
   </nav>
 
  <a href="/" class="logo"><img src="{Logo}" alt="" width="200" height="200"></a> 
