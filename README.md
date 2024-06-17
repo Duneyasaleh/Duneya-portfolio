@@ -1,5 +1,8 @@
 # Duneya Saleh Portfolio
 
+![image](https://github.com/Duneyasaleh/Duneya-portfolio/assets/54691201/b9c58bcb-67e6-4d48-bdf8-1e72f2811b03)
+
+
 ## Inhoudsopgave
 1. [Beschrijving](#beschrijving)
 2. [Kenmerken](#kenmerken)
